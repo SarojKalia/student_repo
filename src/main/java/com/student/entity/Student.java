@@ -5,5 +5,9 @@ public class Student {
     private String name;
     private String email;
     private String password;
+
     private float age;
+
+    private long phone;
+
 }
