@@ -9,5 +9,7 @@ public class Student {
     private float age;
 
     private long phone;
+	
+    private String address;
 
 }
